@@ -1,0 +1,3 @@
+[submodule "includes/rest-tools"]
+	path = includes/rest-tools
+	url = git@github.com:vicchi/rest-tools.git
