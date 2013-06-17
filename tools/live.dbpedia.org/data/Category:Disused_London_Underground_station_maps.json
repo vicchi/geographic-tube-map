@@ -1,0 +1,7 @@
+{
+  "http://dbpedia.org/resource/Category:Disused_London_Underground_station_maps" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "Disused London Underground station maps" , "lang" : "en" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Disused_London_Underground_station_maps" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "Disused London Underground station maps" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Disused_London_Underground_stations" } ] }
+}

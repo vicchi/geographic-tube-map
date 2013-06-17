@@ -1,0 +1,8 @@
+{
+  "http://dbpedia.org/resource/Park_Royal_&_Twyford_Abbey_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Park_Royal_&_Twyford_Abbey_tube_station" } ,
+      { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.06qrz0" } ] ,
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ { "type" : "literal", "value" : -0.2894444465637207 , "datatype" : "http://www.w3.org/2001/XMLSchema#float" } ] ,
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ { "type" : "literal", "value" : 51.53138732910156 , "datatype" : "http://www.w3.org/2001/XMLSchema#float" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Park_Royal_&_Twyford_Abbey_tube_station" } ] } ,
+  "http://en.wikipedia.org/wiki/Park_Royal_%26_Twyford_Abbey_tube_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Park_Royal_&_Twyford_Abbey_tube_station" } ] }
+}

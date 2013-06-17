@@ -1,0 +1,19 @@
+{
+  "http://dbpedia.org/resource/Category:Croxley_Rail_Link" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "Croxley Rail Link" , "lang" : "en" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "Croxley Rail Link" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Proposed_extensions_to_the_London_Underground" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Metropolitan_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Croxley_Rail_Link" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Watford_and_Rickmansworth_Railway" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Croxley_Green_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Croxley_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Watford_Stadium_Halt_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Watford_West_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Ascot_Road_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Watford_Junction_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Watford_High_Street_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Watford_General_Hospital_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] } ,
+  "http://dbpedia.org/resource/Watford_Hospital_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Croxley_Rail_Link" } ] }
+}

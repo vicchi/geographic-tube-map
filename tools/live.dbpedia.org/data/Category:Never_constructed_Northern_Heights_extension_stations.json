@@ -1,0 +1,16 @@
+{
+  "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "Never constructed Northern Heights extension stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "Never constructed Northern Heights extension stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_London_Underground_stations" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Northern_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Cranley_Gardens_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] } ,
+  "http://dbpedia.org/resource/Crouch_End_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] } ,
+  "http://dbpedia.org/resource/Elstree_South_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] } ,
+  "http://dbpedia.org/resource/Muswell_Hill_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] } ,
+  "http://dbpedia.org/resource/Stroud_Green_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] } ,
+  "http://dbpedia.org/resource/Alexandra_Palace_railway_station_%28Muswell_Hill_branch%29" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] } ,
+  "http://dbpedia.org/resource/Brockley_Hill_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] } ,
+  "http://dbpedia.org/resource/Bushey_Heath_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Northern_Heights_extension_stations" } ] }
+}

@@ -1,0 +1,13 @@
+{
+  "http://dbpedia.org/resource/Elephant_&_Castle_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.01zmz6" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Elephant_&_Castle_tube_station" } ] ,
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ { "type" : "literal", "value" : -0.09969999641180038 , "datatype" : "http://www.w3.org/2001/XMLSchema#float" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ { "type" : "literal", "value" : 51.49440002441406 , "datatype" : "http://www.w3.org/2001/XMLSchema#float" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Elephant_&_Castle_tube_station" } ] ,
+    "http://dbpedia.org/property/wordnet_type" : [ { "type" : "uri", "value" : "http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1" } ] } ,
+  "http://dbpedia.org/resource/Elephant_and_Castle_tube_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Elephant_&_Castle_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Elephant_&_Castle_Underground_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Elephant_&_Castle_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Elephant_and_Castle_Underground_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Elephant_&_Castle_tube_station" } ] } ,
+  "http://en.wikipedia.org/wiki/Elephant_%26_Castle_tube_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Elephant_&_Castle_tube_station" } ] }
+}

@@ -1,0 +1,16 @@
+{
+  "http://dbpedia.org/resource/Kew_Gardens_%28disambiguation%29" : { "http://dbpedia.org/ontology/wikiPageDisambiguates" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Kew_Gardens_station_(London)" } ] } ,
+  "http://dbpedia.org/resource/Cosmo_Gordon_Lang" : { "http://dbpedia.org/ontology/deathPlace" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Kew_Gardens_station_(London)" } ] } ,
+  "http://en.wikipedia.org/wiki/Kew_Gardens_station_%28London%29" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Kew_Gardens_station_(London)" } ] } ,
+  "http://mpii.de/yago/resource/Kew_Gardens_station_%28London%29" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Kew_Gardens_station_(London)" } ] } ,
+  "http://dbpedia.org/resource/Kew_Gardens_station_(London)" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsOpenedIn1869" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/DistrictLineStations" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsServedByLondonOverground" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsInRichmondUponThames" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/TuBEStationsInRichmondUponThames" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/YagoGeoEntity" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Kew_Gardens_station_(London)" } ,
+      { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.01z2dr" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Kew_Gardens_station_(London)" } ] ,
+    "http://dbpedia.org/property/wordnet_type" : [ { "type" : "uri", "value" : "http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1" } ] }
+}

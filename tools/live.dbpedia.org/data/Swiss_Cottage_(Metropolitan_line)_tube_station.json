@@ -1,0 +1,5 @@
+{
+  "http://dbpedia.org/resource/Swiss_Cottage_(Metropolitan_line)_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.042lxg" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Swiss_Cottage_(Metropolitan_line)_tube_station" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Swiss_Cottage_(Metropolitan_line)_tube_station" } ] }
+}

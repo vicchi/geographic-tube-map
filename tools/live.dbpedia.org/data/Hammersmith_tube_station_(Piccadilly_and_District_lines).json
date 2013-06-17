@@ -1,0 +1,8 @@
+{
+  "http://en.wikipedia.org/wiki/Hammersmith_tube_station_%28Piccadilly_and_District_lines%29" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Hammersmith_tube_station_(Piccadilly_and_District_lines)" } ] } ,
+  "http://dbpedia.org/resource/Hammersmith_tube_station_%28Hammersmith_%26_City_and_Circle_lines%29" : { "http://dbpedia.org/property/interchange" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Hammersmith_tube_station_(Piccadilly_and_District_lines)" } ] } ,
+  "http://dbpedia.org/resource/Hammersmith_tube_station_(Piccadilly_and_District_lines)" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Hammersmith_tube_station_(Piccadilly_and_District_lines)" } ,
+      { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.020d1_" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Hammersmith_tube_station_(Piccadilly_and_District_lines)" } ] }
+}

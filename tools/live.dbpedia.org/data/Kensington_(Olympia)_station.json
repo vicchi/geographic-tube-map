@@ -1,0 +1,17 @@
+{
+  "http://dbpedia.org/resource/Olympia" : { "http://dbpedia.org/ontology/wikiPageDisambiguates" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Kensington_(Olympia)_station" } ] } ,
+  "http://en.wikipedia.org/wiki/Kensington_%28Olympia%29_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Kensington_(Olympia)_station" } ] } ,
+  "http://mpii.de/yago/resource/Kensington_%28Olympia%29_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Kensington_(Olympia)_station" } ] } ,
+  "http://dbpedia.org/resource/Kensington_(Olympia)_station" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsServedByLondonOverground" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/DistrictLineStations" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsInKensingtonAndChelsea" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsServedByCrossCountry" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/YagoGeoEntity" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsOpenedIn1844" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/SinglePlatformTuBEStations" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsServedBySouthern" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/TuBEStationsInKensingtonAndChelsea" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.02t9fr" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Kensington_(Olympia)_station" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Kensington_(Olympia)_station" } ] }
+}

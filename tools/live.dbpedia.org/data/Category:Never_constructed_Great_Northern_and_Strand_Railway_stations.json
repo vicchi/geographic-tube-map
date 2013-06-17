@@ -1,0 +1,11 @@
+{
+  "http://dbpedia.org/resource/Category:Never_constructed_Great_Northern_and_Strand_Railway_stations" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "Never constructed Great Northern and Strand Railway stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Great_Northern_and_Strand_Railway_stations" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "Never constructed Great Northern and Strand Railway stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Piccadilly_Line_stations" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_London_Underground_stations" } ] } ,
+  "http://dbpedia.org/resource/Alexandra_Palace_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Great_Northern_and_Strand_Railway_stations" } ] } ,
+  "http://dbpedia.org/resource/Harringay_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Great_Northern_and_Strand_Railway_stations" } ] } ,
+  "http://dbpedia.org/resource/Hornsey_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Never_constructed_Great_Northern_and_Strand_Railway_stations" } ] }
+}

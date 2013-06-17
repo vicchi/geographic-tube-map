@@ -1,0 +1,16 @@
+{
+  "http://dbpedia.org/resource/WikiProject_London_Transport/How_to_write_about_stations" : { "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "WikiProject London Transport/How to write about stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#comment" : [ { "type" : "literal", "value" : "This is a project guideline for the structure of Wikipedia articles about the ~600 Docklands Light Railway, London Overground, London Underground and National Rail stations in London fare zones 1-6, G and W." , "lang" : "en" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/WikiProject_London_Transport/How_to_write_about_stations" } ] ,
+    "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Railway_stations_in_Westminster" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_in_London_fare_zone_1" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Railway_stations_served_by_Chiltern_Railways" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Tube_stations_in_Westminster" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Central_Line_stations" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:WikiProject_London_Transport" } ] ,
+    "http://dbpedia.org/ontology/wikiPageExternalLink" : [ { "type" : "uri", "value" : "http://www.rail-reg.gov.uk/server/show/nav.1529" } ,
+      { "type" : "uri", "value" : "http://www.tfl.gov.uk/tfl/corporate/modesoftransport/tube/performance/default.asp?onload=entryexit" } ] ,
+    "http://xmlns.com/foaf/0.1/page" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/WikiProject_London_Transport/How_to_write_about_stations" } ] ,
+    "http://dbpedia.org/ontology/abstract" : [ { "type" : "literal", "value" : "This is a project guideline for the structure of Wikipedia articles about the ~600 Docklands Light Railway, London Overground, London Underground and National Rail stations in London fare zones 1-6, G and W." , "lang" : "en" } ] } ,
+  "http://en.wikipedia.org/wiki/WikiProject_London_Transport/How_to_write_about_stations" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/WikiProject_London_Transport/How_to_write_about_stations" } ] }
+}

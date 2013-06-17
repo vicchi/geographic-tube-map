@@ -1,0 +1,22 @@
+{
+  "http://dbpedia.org/resource/Richmond" : { "http://dbpedia.org/ontology/wikiPageDisambiguates" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ] } ,
+  "http://dbpedia.org/resource/St_Margarets_railway_station_%28London%29" : { "http://dbpedia.org/property/previous" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ] } ,
+  "http://dbpedia.org/resource/Harry_Hampton" : { "http://dbpedia.org/ontology/deathPlace" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ] } ,
+  "http://dbpedia.org/resource/Twickenham_railway_station" : { "http://dbpedia.org/property/previous" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ] } ,
+  "http://dbpedia.org/resource/Putney_railway_station" : { "http://dbpedia.org/property/next" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ] } ,
+  "http://dbpedia.org/resource/North_Sheen_railway_station" : { "http://dbpedia.org/property/next" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ] } ,
+  "http://en.wikipedia.org/wiki/Richmond_station_%28London%29" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ] } ,
+  "http://mpii.de/yago/resource/Richmond_station_%28London%29" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ] } ,
+  "http://dbpedia.org/resource/Richmond_station_(London)" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsServedBySouthWestTrains" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsServedByLondonOverground" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/TuBEStationsInRichmondUponThames" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsInRichmondUponThames" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/YagoGeoEntity" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/DistrictLineStations" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsOpenedIn1846" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Richmond_station_(London)" } ,
+      { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.025sly" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Richmond_station_(London)" } ] ,
+    "http://dbpedia.org/property/wordnet_type" : [ { "type" : "uri", "value" : "http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1" } ] }
+}

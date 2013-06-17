@@ -1,0 +1,8 @@
+{
+  "http://dbpedia.org/resource/Shepherd%27s_Bush_railway_station" : { "http://dbpedia.org/property/interchange" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Shepherd's_Bush_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Shepherd's_Bush_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.04qw9n" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Shepherd's_Bush_tube_station" } ] ,
+    "http://dbpedia.org/ontology/country" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/United_Kingdom" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Shepherd's_Bush_tube_station" } ] }
+}

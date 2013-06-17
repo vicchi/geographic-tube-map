@@ -1,0 +1,22 @@
+{
+  "http://dbpedia.org/resource/Heathrow_%28disambiguation%29" : { "http://dbpedia.org/ontology/wikiPageDisambiguates" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3" : { "http://dbpedia.org/ontology/wikiPageDisambiguates" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ,
+      { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.03dp7q" } ] ,
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long" : [ { "type" : "literal", "value" : -0.4519999921321869 , "datatype" : "http://www.w3.org/2001/XMLSchema#float" } ] ,
+    "http://dbpedia.org/ontology/country" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/United_Kingdom" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/London_Heathrow_Airport" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://dbpedia.org/property/locale" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/London_Heathrow_Airport" } ] ,
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat" : [ { "type" : "literal", "value" : 51.47100067138672 , "datatype" : "http://www.w3.org/2001/XMLSchema#float" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Heathrow_Terminals_1,_2,_3_tube_station" } ] ,
+    "http://dbpedia.org/property/wordnet_type" : [ { "type" : "uri", "value" : "http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Terminals_1,2,3_tube_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Central_Underground_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_Underground_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Terminals_1,2,3_Underground_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Central_tube_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Heathrow_Terminals_1,2,3_station" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] } ,
+  "http://en.wikipedia.org/wiki/Heathrow_Terminals_1%2C_2%2C_3_tube_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Heathrow_Terminals_1,_2,_3_tube_station" } ] }
+}

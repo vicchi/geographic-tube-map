@@ -1,0 +1,11 @@
+{
+  "http://dbpedia.org/resource/St._Pancras" : { "http://dbpedia.org/ontology/wikiPageDisambiguates" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/King's_Cross_St._Pancras_tube_station" } ] } ,
+  "http://dbpedia.org/resource/King%27s_Cross_fire" : { "http://dbpedia.org/property/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/King's_Cross_St._Pancras_tube_station" } ] } ,
+  "http://en.wikipedia.org/wiki/King%27s_Cross_St._Pancras_tube_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/King's_Cross_St._Pancras_tube_station" } ] } ,
+  "http://dbpedia.org/resource/King's_Cross_St._Pancras_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/King's_Cross_St._Pancras_tube_station" } ,
+      { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.01hm19" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/King's_Cross_St._Pancras_tube_station" } ] ,
+    "http://dbpedia.org/property/wordnet_type" : [ { "type" : "uri", "value" : "http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1" } ] } ,
+  "http://dbpedia.org/resource/King%27s_Pancras" : { "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/King's_Cross_St._Pancras_tube_station" } ] }
+}

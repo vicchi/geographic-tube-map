@@ -1,0 +1,7 @@
+{
+  "http://dbpedia.org/resource/Ongar_railway_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Former_single_platform_tube_stations" } ] } ,
+  "http://dbpedia.org/resource/Category:Former_single_platform_tube_stations" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Former_single_platform_tube_stations" } ] } ,
+  "http://dbpedia.org/resource/King_William_Street_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Former_single_platform_tube_stations" } ] } ,
+  "http://dbpedia.org/resource/Aldwych_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Former_single_platform_tube_stations" } ] } ,
+  "http://dbpedia.org/resource/Blake_Hall_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Former_single_platform_tube_stations" } ] }
+}

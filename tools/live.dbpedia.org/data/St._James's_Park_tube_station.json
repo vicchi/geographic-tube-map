@@ -1,0 +1,10 @@
+{
+  "http://dbpedia.org/resource/Churchill_War_Rooms" : { "http://dbpedia.org/property/publictransit" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/St._James's_Park_tube_station" } ] } ,
+  "http://dbpedia.org/resource/St._James%27s_Park_%28disambiguation%29" : { "http://dbpedia.org/ontology/wikiPageDisambiguates" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/St._James's_Park_tube_station" } ] } ,
+  "http://en.wikipedia.org/wiki/St._James%27s_Park_tube_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/St._James's_Park_tube_station" } ] } ,
+  "http://dbpedia.org/resource/St._James's_Park_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.020rs8" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/St._James's_Park_tube_station" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/St._James's_Park_tube_station" } ] ,
+    "http://dbpedia.org/property/wordnet_type" : [ { "type" : "uri", "value" : "http://www.w3.org/2006/03/wn/wn20/instances/synset-railway_station-noun-1" } ] }
+}

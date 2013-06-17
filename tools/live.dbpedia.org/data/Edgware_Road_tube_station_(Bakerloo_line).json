@@ -1,0 +1,7 @@
+{
+  "http://en.wikipedia.org/wiki/Edgware_Road_tube_station_%28Bakerloo_line%29" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Edgware_Road_tube_station_(Bakerloo_line)" } ] } ,
+  "http://dbpedia.org/resource/Edgware_Road_tube_station_(Bakerloo_line)" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.025xwht" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Edgware_Road_tube_station_(Bakerloo_line)" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Edgware_Road_tube_station_(Bakerloo_line)" } ] }
+}

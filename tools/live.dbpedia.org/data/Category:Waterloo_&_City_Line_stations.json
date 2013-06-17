@@ -1,0 +1,6 @@
+{
+  "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Waterloo_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Bank-Monument_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Bank_and_Monument_stations" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" } ] }
+}

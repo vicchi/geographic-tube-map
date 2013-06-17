@@ -1,0 +1,9 @@
+{
+  "http://dbpedia.org/resource/Wood_Lane_tube_station" : { "http://dbpedia.org/property/previous" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Shepherd's_Bush_Market_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Wood_Lane_%28Metropolitan_line%29_tube_station" : { "http://dbpedia.org/property/previous" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Shepherd's_Bush_Market_tube_station" } ] } ,
+  "http://en.wikipedia.org/wiki/Shepherd%27s_Bush_Market_tube_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Shepherd's_Bush_Market_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Shepherd's_Bush_Market_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.04qwbr" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Shepherd's_Bush_Market_tube_station" } ] ,
+    "http://dbpedia.org/ontology/location" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Greater_London" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Shepherd's_Bush_Market_tube_station" } ] }
+}

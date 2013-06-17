@@ -1,0 +1,11 @@
+{
+  "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" } ,
+      { "type" : "uri", "value" : "http://pl.dbpedia.org/resource/Kategoria:Stacje_linii_Waterloo_&_City" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "Waterloo & City Line stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "Waterloo & City Line stations" , "lang" : "en" } ] ,
+    "http://www.w3.org/ns/prov#wasDerivedFrom" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Category:Waterloo_&_City_Line_stations?oldid=473161784" } ] } ,
+  "http://dbpedia.org/resource/Waterloo_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Bank-Monument_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Waterloo_&_City_Line_stations" } ] }
+}

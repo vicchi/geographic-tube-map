@@ -1,0 +1,4 @@
+{
+  "http://en.wikipedia.org/wiki/Edgware_Road_tube_station_%28Circle%2C_District_and_Hammersmith_%26_City_lines%29" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Edgware_Road_tube_station_(Circle,_District_and_Hammersmith_&_City_lines)" } ] } ,
+  "http://dbpedia.org/resource/Edgware_Road_tube_station_(Circle,_District_and_Hammersmith_&_City_lines)" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Edgware_Road_tube_station_(Circle,_District_and_Hammersmith_&_City_lines)" } ] }
+}

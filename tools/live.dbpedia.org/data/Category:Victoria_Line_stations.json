@@ -1,0 +1,19 @@
+{
+  "http://dbpedia.org/resource/Category:Victoria_Line_stations" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Seven_Sisters_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Warren_Street_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Oxford_Circus_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Euston_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/London_Victoria_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Pimlico_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Green_Park_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/King%27s_Cross_St._Pancras_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Vauxhall_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Brixton_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Finsbury_Park_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Tottenham_Hale_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Stockwell_tube_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Walthamstow_Central_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Blackhorse_Road_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] } ,
+  "http://dbpedia.org/resource/Highbury_%26_Islington_station" : { "http://purl.org/dc/terms/subject" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Victoria_Line_stations" } ] }
+}

@@ -1,0 +1,7 @@
+{
+  "http://en.wikipedia.org/wiki/Watford_General_Hospital_tube_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Watford_General_Hospital_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Watford_General_Hospital_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Watford_General_Hospital_tube_station" } ] ,
+    "http://xmlns.com/foaf/0.1/isPrimaryTopicOf" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Watford_General_Hospital_tube_station" } ] ,
+    "http://www.w3.org/ns/prov#wasDerivedFrom" : [ { "type" : "uri", "value" : "http://en.wikipedia.org/wiki/Watford_General_Hospital_tube_station?oldid=479622949" } ] ,
+    "http://dbpedia.org/ontology/wikiPageRedirects" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Watford_Hospital_tube_station" } ] }
+}

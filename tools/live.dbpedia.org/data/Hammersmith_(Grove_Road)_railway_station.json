@@ -1,0 +1,11 @@
+{
+  "http://en.wikipedia.org/wiki/Hammersmith_%28Grove_Road%29_railway_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Hammersmith_(Grove_Road)_railway_station" } ] } ,
+  "http://mpii.de/yago/resource/Hammersmith_%28Grove_Road%29_railway_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Hammersmith_(Grove_Road)_railway_station" } ] } ,
+  "http://dbpedia.org/resource/Hammersmith_(Grove_Road)_railway_station" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://dbpedia.org/class/yago/DisusedLondonUndergroundStations" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsOpenedIn1869" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/DisusedRailwayStationsInHammersmithAndFulham" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/class/yago/RailwayStationsClosedIn1916" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.074kxq" } ,
+      { "type" : "uri", "value" : "http://dbpedia.org/resource/Hammersmith_(Grove_Road)_railway_station" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Hammersmith_(Grove_Road)_railway_station" } ] }
+}

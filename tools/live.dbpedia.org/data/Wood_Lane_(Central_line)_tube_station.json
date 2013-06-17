@@ -1,0 +1,6 @@
+{
+  "http://en.wikipedia.org/wiki/Wood_Lane_%28Central_line%29_tube_station" : { "http://xmlns.com/foaf/0.1/primaryTopic" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Wood_Lane_(Central_line)_tube_station" } ] } ,
+  "http://dbpedia.org/resource/Wood_Lane_(Central_line)_tube_station" : { "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Wood_Lane_(Central_line)_tube_station" } ,
+      { "type" : "uri", "value" : "http://rdf.freebase.com/ns/m.03r6lg" } ] ,
+    "http://dbpedia.org/property/hasPhotoCollection" : [ { "type" : "uri", "value" : "http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Wood_Lane_(Central_line)_tube_station" } ] }
+}

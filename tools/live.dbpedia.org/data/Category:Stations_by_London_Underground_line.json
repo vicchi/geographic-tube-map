@@ -1,0 +1,18 @@
+{
+  "http://dbpedia.org/resource/Category:Bakerloo_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category:Jubilee_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category:Northern_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category:Metropolitan_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category:Hammersmith_&_City_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category:Piccadilly_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" : { "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { "type" : "uri", "value" : "http://www.w3.org/2004/02/skos/core#Concept" } ] ,
+    "http://www.w3.org/2000/01/rdf-schema#label" : [ { "type" : "literal", "value" : "Stations by London Underground line" , "lang" : "en" } ] ,
+    "http://www.w3.org/2002/07/owl#sameAs" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { "type" : "literal", "value" : "Stations by London Underground line" , "lang" : "en" } ] ,
+    "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:London_Underground_stations" } ] } ,
+  "http://dbpedia.org/resource/Category%3ACircle_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category%3ADistrict_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category%3ACentral_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category%3AVictoria_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] } ,
+  "http://dbpedia.org/resource/Category%3AWaterloo_%26_City_Line_stations" : { "http://www.w3.org/2004/02/skos/core#broader" : [ { "type" : "uri", "value" : "http://dbpedia.org/resource/Category:Stations_by_London_Underground_line" } ] }
+}
